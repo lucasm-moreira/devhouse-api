@@ -9,7 +9,7 @@ class App {
     this.server = express();
 
     mongoose.connect(
-      'mongodb+srv://devhouse:devhouse@devhouse.l8upj.mongodb.net/devhouse?retryWrites=true&w=majority',
+      'Inserir String de Conexão com o MongoDB Aqui',
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
